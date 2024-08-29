@@ -1,0 +1,8 @@
+org\example\storageSortedData\dataTypes\NumberData.class
+org\example\Main.class
+org\example\storageSortedData\dataTypes\StringData.class
+org\example\storageSortedData\dataTypes\numberDataTypes\DoubleData.class
+org\example\sorter\Sorter.class
+org\example\storageSortedData\SortedData.class
+org\example\storageSortedData\dataTypes\numberDataTypes\IntData.class
+org\example\fileProcessors\FileProcessor.class
